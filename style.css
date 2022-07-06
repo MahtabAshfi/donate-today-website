@@ -163,3 +163,43 @@ button{
 .last-section small{
     color: #89898a;
 }
+
+.half-width{
+    width:40%;
+
+}
+
+.contact{
+    display: flex;
+    padding-top: 60px;
+}
+
+.half-width img{
+    width: 100%;
+    margin-left: 25%;
+}
+
+.half-width h2{
+    width: 80%;
+    margin-left: 40%;
+    padding-top: 20px;
+}
+
+.half-width p{
+    width: 80%;
+    margin-left: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.half-width a{
+    width: 80%;
+    margin-left: 40%;
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+
