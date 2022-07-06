@@ -24,8 +24,8 @@ h1{
     color: white;
 }
 
-p{
-    padding: 20px;
+.center-text p{
+    padding: 30px;
     font-size: small;
     color: white;
 }
@@ -35,6 +35,46 @@ p{
     width: 100%;
     background-image: url(images/Rectangle\ 237.png);
     background-size: cover;
+}
+
+.center-text2{
+    text-align: center;
+    padding-top: 80px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 900;
+    padding-bottom: 20px;
+}
+
+.center-text2 p{
+    padding-bottom: 50px;
+}
+
+.small-box{
+    font-size: 25px;
+    border: 8px solid #FAFAFA;
+    background-color: #FAFAFA;
+    padding: 20px 15px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+#select-box{
+    background-color: #FFEEEE;
+    border: 5px solid #FF5959;
+    color: #FF5959;
+}
+
+#short-text{
+    padding-top: 70px;
+    padding-bottom: 5px;
+}
+
+hr{
+    width: 50%;
+    margin: auto;   
 }
 
 
