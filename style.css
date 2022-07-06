@@ -1,0 +1,41 @@
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.center-text{
+    text-align: center;
+    
+}
+
+h1{
+    font-weight: 900;
+    font-size: 55px;
+    color: white;
+    padding-top: 10%;
+}
+
+.btn{
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+p{
+    padding: 20px;
+    font-size: small;
+    color: white;
+}
+
+.first-section{
+    height: 550px;
+    width: 100%;
+    background-image: url(images/Rectangle\ 237.png);
+    background-size: cover;
+}
+
+
+
