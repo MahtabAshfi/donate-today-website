@@ -39,7 +39,7 @@ h1{
 
 .center-text2{
     text-align: center;
-    padding-top: 80px;
+    padding-top: 90px;
 }
 
 h2{
@@ -77,5 +77,43 @@ hr{
     margin: auto;   
 }
 
+.partition{
+    width: 100%;
+    display: flex;
+    margin-left: 10%;
+}
 
+.box-width{
+    text-align: justify;
+    padding: 20px 5px 20px 10px;
+}
+#first-part{
+    border: 2px solid #4F9DA6;
+    padding-right: 10px;
+    padding-top: 17px;
+    background-color: #89c6cdec;
+    margin-right: 30px;
+} 
+   
+#second-part{
+    border: 2px solid #e58484 ;
+    padding-right: 10px;
+    padding-top: 17px;
+    background-color: #e58484;
+    margin-right: 30px;
+} 
 
+#third-part{
+    border: 2px solid #a4f38cf1 ;
+    padding-right: 10px;
+    padding-top: 17px;
+    background-color: #a4f38cf1;
+} 
+
+.box-width img {
+    padding-bottom: 16px;
+}
+
+.box-width h3 {
+    padding-bottom: 16px;
+}
